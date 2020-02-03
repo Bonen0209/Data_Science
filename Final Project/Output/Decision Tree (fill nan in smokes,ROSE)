@@ -1,0 +1,31 @@
+Accuracy score: 0.9525429694374377
+
+Classification report
+              precision    recall  f1-score   support
+
+           0       1.00      0.91      0.95      8468
+           1       0.92      1.00      0.95      8579
+
+    accuracy                           0.95     17047
+   macro avg       0.96      0.95      0.95     17047
+weighted avg       0.96      0.95      0.95     17047
+
+Confusion matrix
+[[7686  782]
+ [  27 8552]]
+
+precision: 0.9162202699807157
+
+recall: 0.9968527800442942
+
+                   Importance
+age                  0.499598
+bmi                  0.102563
+smoking_status       0.079894
+work_type            0.079370
+Residence_type       0.065669
+gender               0.065034
+hypertension         0.039826
+ever_married         0.031104
+avg_glucose_level    0.019264
+heart_disease        0.017680
