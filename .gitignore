@@ -1,0 +1,20 @@
+# Environment
+DataScience/
+
+# Visual Studio Code
+.vscode/
+
+# Cache
+.DS_Store
+*__pycache__*
+*.ipynb_checkpoints*
+
+# Report
+*report*
+
+# Upload
+*r08942073*.zip
+
+# Final Project
+Final Project/DS Final Presentation.*
+Final Project/24.zip
